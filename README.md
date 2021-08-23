@@ -3,7 +3,7 @@
 ## Project Description
 This is a simple  java api application that uses restful routing to create an api that provides access to our apps' users, departments, and news posts. you are able to get and post new information but there is no front end provided and everything is in JSON format.
 ## Application Link
-[link](#)
+[link](https://vickyorganisational.herokuapp.com/)
 
 ## Author Information
 [Victoria Okumu](https://github.com/vokumu)
