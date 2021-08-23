@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="models.UserTest" tests="11" skipped="0" failures="0" errors="0" timestamp="2021-08-22T19:43:37" hostname="denvar-HP-ENVY-x360-Convertible-13-y0XX" time="0.01">
+  <properties/>
+  <testcase name="setNameReturnsCorrectly" classname="models.UserTest" time="0.001"/>
+  <testcase name="setDepartmentIdReturnsCorrectly" classname="models.UserTest" time="0.0"/>
+  <testcase name="setRoleReturnsCorrectly" classname="models.UserTest" time="0.0"/>
+  <testcase name="getDepartmentIdReturnsCorrectly" classname="models.UserTest" time="0.001"/>
+  <testcase name="getPositionReturnsCorrectly" classname="models.UserTest" time="0.0"/>
+  <testcase name="userInstantiatesCorrectly_true" classname="models.UserTest" time="0.0"/>
+  <testcase name="getNameReturnsCorrectly" classname="models.UserTest" time="0.0"/>
+  <testcase name="getBioReturnsCorrectly" classname="models.UserTest" time="0.0"/>
+  <testcase name="getRoleReturnsCorrectly" classname="models.UserTest" time="0.0"/>
+  <testcase name="setBioReturnsCorrectly" classname="models.UserTest" time="0.0"/>
+  <testcase name="setPositionReturnsCorrectly" classname="models.UserTest" time="0.004"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
