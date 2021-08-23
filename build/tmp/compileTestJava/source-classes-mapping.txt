@@ -1,12 +1,12 @@
-dao/Sql20UserDaoTest.java
- dao.Sql20UserDaoTest
-models/UserTest.java
- models.UserTest
-models/DepartmentTest.java
- models.DepartmentTest
 dao/Sql2oNewsDaoTest.java
  dao.Sql2oNewsDaoTest
-models/NewsTest.java
- models.NewsTest
+models/UserTest.java
+ models.UserTest
+dao/Sql20UserDaoTest.java
+ dao.Sql20UserDaoTest
 dao/Sql2oDepartmentDaoTest.java
  dao.Sql2oDepartmentDaoTest
+models/NewsTest.java
+ models.NewsTest
+models/DepartmentTest.java
+ models.DepartmentTest
