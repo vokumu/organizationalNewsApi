@@ -1,4 +1,4 @@
 package models;
 
-public @interface News {
+public class News {
 }
